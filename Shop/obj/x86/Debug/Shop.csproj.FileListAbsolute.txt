@@ -1,0 +1,13 @@
+D:\Artyom\Artyom\projects 2010\Shop\Shop\bin\Debug\ThingsandCompanies.sdf
+D:\Artyom\Artyom\projects 2010\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Artyom\Artyom\projects 2010\Shop\Shop\bin\Debug\Shop.exe
+D:\Artyom\Artyom\projects 2010\Shop\Shop\bin\Debug\Shop.pdb
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.MainWindow.resources
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.Properties.Resources.resources
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.csproj.GenerateResource.Cache
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.exe
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.pdb
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.AddCompanyForm.resources
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.AddModelForm.resources
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.AddParametersForm.resources
