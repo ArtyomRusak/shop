@@ -10,3 +10,4 @@ D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Release\Shop.Properties.Resourc
 D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Release\Shop.csproj.GenerateResource.Cache
 D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Release\Shop.exe
 D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Release\Shop.pdb
+D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Release\Shop.csprojResolveAssemblyReference.cache
