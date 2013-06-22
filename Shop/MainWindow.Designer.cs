@@ -76,6 +76,7 @@
             this.dataGridForCompanies.AllowUserToAddRows = false;
             this.dataGridForCompanies.AllowUserToDeleteRows = false;
             this.dataGridForCompanies.AllowUserToResizeColumns = false;
+            this.dataGridForCompanies.AllowUserToResizeRows = false;
             this.dataGridForCompanies.AutoGenerateColumns = false;
             this.dataGridForCompanies.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridForCompanies.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -122,6 +123,7 @@
             this.dataGridForModels.AllowUserToAddRows = false;
             this.dataGridForModels.AllowUserToDeleteRows = false;
             this.dataGridForModels.AllowUserToResizeColumns = false;
+            this.dataGridForModels.AllowUserToResizeRows = false;
             this.dataGridForModels.AutoGenerateColumns = false;
             this.dataGridForModels.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridForModels.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -152,6 +154,7 @@
             this.dataGridForParameters.AllowUserToAddRows = false;
             this.dataGridForParameters.AllowUserToDeleteRows = false;
             this.dataGridForParameters.AllowUserToResizeColumns = false;
+            this.dataGridForParameters.AllowUserToResizeRows = false;
             this.dataGridForParameters.AutoGenerateColumns = false;
             this.dataGridForParameters.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridForParameters.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
