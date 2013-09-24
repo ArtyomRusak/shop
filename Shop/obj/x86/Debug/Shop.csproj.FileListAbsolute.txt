@@ -11,3 +11,6 @@ D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.pdb
 D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.AddCompanyForm.resources
 D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.AddModelForm.resources
 D:\Artyom\Artyom\projects 2010\Shop\Shop\obj\x86\Debug\Shop.AddParametersForm.resources
+D:\Programming\shop\shop\Shop\bin\Debug\Shop.exe.config
+D:\Programming\shop\shop\Shop\obj\x86\Debug\Shop.exe
+D:\Programming\shop\shop\Shop\obj\x86\Debug\Shop.pdb
